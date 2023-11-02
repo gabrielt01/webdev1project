@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/gabrielt01/webdev1project/issues"
   },
-  "homepage": "https://github.com/gabrielt01/webdev1project#readme"
+  "homepage": "https://github.com/gabrielt01/webdev1project#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0"
+  }
 }
